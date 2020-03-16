@@ -49,5 +49,5 @@ public enum HalfOfDay // перечисление для определения 
     public LocalDateTime get_FinishTime() // возвращает время окончания работы карты на пол дня
     {
         return FINISH_TIME;
-    }
+   }
 }
